@@ -18,6 +18,6 @@ The output is a map in which each key is the number of citations for a given pub
 {'0': 23, '1': 3, '4': 2}
 ```
 
-would describe a set of 28 publications, 23 of which had no citations in PMC, 3 of which had 1 publication in PMC, and 2 of which had 4 publications in PMC.
+would describe a set of 28 publications, 23 of which had no citations in PMC, 3 of which had 1 citation in PMC, and 2 of which had 4 citations in PMC.
 
 These counts represent minimum citation counts. Notably, a publication could be cited by other publications which are not tracked in PMC.
