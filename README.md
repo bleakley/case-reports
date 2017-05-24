@@ -8,7 +8,7 @@ First, define the publication set from which you wish to generate the distributi
 
 Optionally, you may specify a list of PMIDs that will be excluded from the set, as well as a range of publication dates (line 129). You may also specify whether you wish to search MeSH Terms or MeSH Major Topics.
 
-If you wish to search MeSH Major Topics (line 16) to TRUE. All other parameters can be set on line 129.
+If you wish to search MeSH Major Topics (line 16), then set the variable to TRUE. All other parameters can be set on line 129.
 
 The output is a map where each key is count of citations for a publication in PubMed Central (PMC), and each value is the number of publications in the queried set with that citation count. For example, the distribution
 
