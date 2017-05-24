@@ -14,8 +14,6 @@ def getPmids(meshTerms, maxCount, excluded={}, startDate=1900, endDate=3000):
         if i != len(meshTerms) - 1 :
             termString += ' OR '
 
-    maxCount = maxCount + len(excluded) #what is the point of this line?
-
     step = 100000
     trueCount = 99999999
     startCount = 0
