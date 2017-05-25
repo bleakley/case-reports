@@ -1,6 +1,6 @@
 # case-reports
 
-This repository contains a collection of functions in Python 2.7 to assist with PubMed queries.
+This repository contains a collection of functions in Python 2.7 to assist with our project using PubMed queries.
 
 In order to generate a citation count distribution, use the function ```buildDistribution()``` (line 125 - 150) in the file ```citation_distrib.py```.
 
