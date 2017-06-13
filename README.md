@@ -1,4 +1,4 @@
-# case-reports
+# Clinical Case Reports
 
 This repository contains a collection of functions in Python 2.7 to assist with our project using PubMed queries.
 
